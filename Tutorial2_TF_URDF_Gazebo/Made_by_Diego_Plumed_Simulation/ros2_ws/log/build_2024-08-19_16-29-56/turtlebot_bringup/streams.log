@@ -1,0 +1,5 @@
+[0.017s] Invoking command in '/home/oak/ros2_ws/build/turtlebot_bringup': CMAKE_PREFIX_PATH=/home/oak/ros2_ws/install/turtlebot_description:/home/oak/ros2_ws/install/turtlebot_bringup:/opt/ros/humble /usr/bin/cmake --build /home/oak/ros2_ws/build/turtlebot_bringup -- -j16 -l16
+[0.047s] [0mCMake Error: The source directory "/home/oak/ros2_ws/turtlebot_bringup" does not exist.
+[0.048s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.048s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.050s] Invoked command in '/home/oak/ros2_ws/build/turtlebot_bringup' returned '2': CMAKE_PREFIX_PATH=/home/oak/ros2_ws/install/turtlebot_description:/home/oak/ros2_ws/install/turtlebot_bringup:/opt/ros/humble /usr/bin/cmake --build /home/oak/ros2_ws/build/turtlebot_bringup -- -j16 -l16
